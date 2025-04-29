@@ -18,7 +18,7 @@ public class Demo2 {
 
     public static void main(String[] args) {
 
-        StudentCourse s1 = new StudentCourse("DevOps", 100);
+        StudentgitCourse s1 = new StudentCourse("DevOps", 100);
         s1.display();
 
     }
